@@ -1,8 +1,17 @@
-#title, .subtitle, .post_title{
+body {
+    background: grey;
+}
+
+
+#title, .subtitle, .post_title {
     color: blue;
 }
 
-.post_title{
+.post_title {
     font-size: 16px;
     font-style:italic;
+}
+
+.post {
+    background: white;
 }
